@@ -4,5 +4,6 @@ public class Main {
         int numero = 50;
 
         System.out.println("todos re putos");
+        int flag =0;
     }
 }
