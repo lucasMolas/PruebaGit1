@@ -5,5 +5,10 @@ public class Main {
 
         System.out.println("todos re putos");
         int flag =0;
+
+
+        System.out.println("life is good");
     }
+
+
 }
